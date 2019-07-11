@@ -1,2 +1,3 @@
 # PR1903 Git Training
-thay doi mau sac
+Edit màu
+Màu yêu thích: xanh dương
